@@ -1,1 +1,3 @@
+ssl git: https://github.com/openssl
+
 https://stackoverflow.com/questions/20351155/how-can-i-enable-ssl-in-qt-windows-application
